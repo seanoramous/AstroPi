@@ -1,0 +1,69 @@
+12-Jun-2017 05:17:20.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.14
+12-Jun-2017 05:17:20.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 13 2017 12:55:45 UTC
+12-Jun-2017 05:17:20.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.14.0
+12-Jun-2017 05:17:20.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+12-Jun-2017 05:17:20.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.9.24-v7+
+12-Jun-2017 05:17:20.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          arm
+12-Jun-2017 05:17:20.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre
+12-Jun-2017 05:17:20.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_65-b17
+12-Jun-2017 05:17:20.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Jun-2017 05:17:20.369 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:20.369 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:20.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/pi/apache-tomcat-8.5.14/conf/logging.properties
+12-Jun-2017 05:17:20.372 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Jun-2017 05:17:20.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Jun-2017 05:17:20.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Jun-2017 05:17:20.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:20.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:20.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/pi/apache-tomcat-8.5.14/temp
+12-Jun-2017 05:17:20.378 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/arm:/lib:/usr/lib
+12-Jun-2017 05:17:21.808 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Jun-2017 05:17:21.969 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2017 05:17:21.988 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2017 05:17:21.997 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2017 05:17:21.999 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 5705 ms
+12-Jun-2017 05:17:22.280 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+12-Jun-2017 05:17:22.281 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.14
+12-Jun-2017 05:17:22.483 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive /home/pi/apache-tomcat-8.5.14/webapps/sample.war
+12-Jun-2017 05:17:19.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.14
+12-Jun-2017 05:17:19.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 13 2017 12:55:45 UTC
+12-Jun-2017 05:17:19.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.14.0
+12-Jun-2017 05:17:19.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+12-Jun-2017 05:17:19.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.9.24-v7+
+12-Jun-2017 05:17:19.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          arm
+12-Jun-2017 05:17:19.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre
+12-Jun-2017 05:17:19.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_65-b17
+12-Jun-2017 05:17:19.745 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Jun-2017 05:17:19.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:19.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:19.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/pi/apache-tomcat-8.5.14/conf/logging.properties
+12-Jun-2017 05:17:19.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Jun-2017 05:17:19.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Jun-2017 05:17:19.752 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Jun-2017 05:17:19.753 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:19.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/pi/apache-tomcat-8.5.14
+12-Jun-2017 05:17:19.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/pi/apache-tomcat-8.5.14/temp
+12-Jun-2017 05:17:19.756 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/arm:/lib:/usr/lib
+12-Jun-2017 05:17:20.932 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Jun-2017 05:17:21.105 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2017 05:17:21.124 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2017 05:17:21.133 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2017 05:17:21.135 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 5305 ms
+12-Jun-2017 05:17:21.399 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+12-Jun-2017 05:17:21.400 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.14
+12-Jun-2017 05:17:21.601 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive /home/pi/apache-tomcat-8.5.14/webapps/sample.war
+12-Jun-2017 05:17:29.147 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [5,019] milliseconds.
+12-Jun-2017 05:17:29.278 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive /home/pi/apache-tomcat-8.5.14/webapps/sample.war has finished in 7,677 ms
+12-Jun-2017 05:17:29.282 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/docs
+12-Jun-2017 05:17:29.356 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/docs has finished in 73 ms
+12-Jun-2017 05:17:29.356 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/examples
+12-Jun-2017 05:17:30.832 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/examples has finished in 1,475 ms
+12-Jun-2017 05:17:30.833 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/manager
+12-Jun-2017 05:17:31.014 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/manager has finished in 181 ms
+12-Jun-2017 05:17:31.016 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/ROOT
+12-Jun-2017 05:17:31.137 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/ROOT has finished in 121 ms
+12-Jun-2017 05:17:31.138 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/host-manager
+12-Jun-2017 05:17:31.270 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/host-manager has finished in 133 ms
+12-Jun-2017 05:17:31.294 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Jun-2017 05:17:31.341 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2017 05:17:31.348 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 10212 ms

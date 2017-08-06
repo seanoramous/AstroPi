@@ -1,0 +1,22 @@
+184.105.247.194 - - [06/May/2017:07:18:58 -0500] "-" 400 -
+71.6.202.196 - - [06/May/2017:12:35:52 -0500] "-" 400 -
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET / HTTP/1.1" 200 11250
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /tomcat.png HTTP/1.1" 200 5103
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /tomcat.css HTTP/1.1" 200 5581
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /bg-nav.png HTTP/1.1" 200 1401
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /bg-upper.png HTTP/1.1" 200 3103
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /asf-logo-wide.svg HTTP/1.1" 200 26447
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /bg-middle.png HTTP/1.1" 200 1918
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /bg-button.png HTTP/1.1" 200 713
+98.186.95.103 - - [06/May/2017:16:06:34 -0500] "GET /favicon.ico HTTP/1.1" 200 21630
+98.186.95.103 - - [06/May/2017:16:07:45 -0500] "GET /host-manager/html HTTP/1.1" 403 3022
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/appdev/ HTTP/1.1" 200 6204
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/images/tomcat.png HTTP/1.1" 200 5103
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/images/docs-stylesheet.css HTTP/1.1" 200 5780
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/images/asf-logo.svg HTTP/1.1" 200 19698
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/images/fonts/fonts.css HTTP/1.1" 200 1943
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/images/fonts/OpenSans700.woff HTTP/1.1" 200 22748
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/images/fonts/OpenSans400.woff HTTP/1.1" 200 21956
+98.186.95.103 - - [06/May/2017:16:08:38 -0500] "GET /docs/images/fonts/OpenSans600.woff HTTP/1.1" 200 22604
+98.186.95.103 - - [06/May/2017:16:08:46 -0500] "GET /docs/appdev/introduction.html HTTP/1.1" 200 7217
+98.186.95.103 - - [06/May/2017:16:08:46 -0500] "GET /docs/images/fonts/OpenSans400italic.woff HTTP/1.1" 200 21092

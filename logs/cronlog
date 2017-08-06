@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "NameBadge3.py", line 1, in <module>
+    from sense_hat import SenseHat
+  File "/usr/lib/python3/dist-packages/sense_hat/__init__.py", line 2, in <module>
+    from .sense_hat import SenseHat, SenseHat as AstroPi
+  File "/usr/lib/python3/dist-packages/sense_hat/sense_hat.py", line 10, in <module>
+    import RTIMU  # custom version
+ImportError: No module named 'RTIMU'

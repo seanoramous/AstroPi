@@ -1,0 +1,15 @@
+07-Jun-2017 19:08:12.924 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [962,130,955] milliseconds.
+07-Jun-2017 19:08:13.050 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive /home/pi/apache-tomcat-8.5.14/webapps/sample.war has finished in 962,133,445 ms
+07-Jun-2017 19:08:13.053 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/docs
+07-Jun-2017 19:08:13.127 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/docs has finished in 73 ms
+07-Jun-2017 19:08:13.127 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/examples
+07-Jun-2017 19:08:14.158 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/examples has finished in 1,031 ms
+07-Jun-2017 19:08:14.159 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/manager
+07-Jun-2017 19:08:14.268 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/manager has finished in 110 ms
+07-Jun-2017 19:08:14.269 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/ROOT
+07-Jun-2017 19:08:14.335 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/ROOT has finished in 66 ms
+07-Jun-2017 19:08:14.336 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/pi/apache-tomcat-8.5.14/webapps/host-manager
+07-Jun-2017 19:08:14.406 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/pi/apache-tomcat-8.5.14/webapps/host-manager has finished in 71 ms
+07-Jun-2017 19:08:14.419 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jun-2017 19:08:14.450 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jun-2017 19:08:14.478 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 8863 ms

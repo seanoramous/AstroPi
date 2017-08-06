@@ -1,0 +1,1456 @@
+1.2
+lxde-applications.menu
+19
+D/home/pi/.local/share/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/raspi-ui-overrides/desktop-directories
+D/usr/share/desktop-directories
+D/usr/share/gdm/desktop-directories
+D/var/lib/menu-xdg/desktop-directories
+D/var/lib/menu-xdg/desktop-directories/menu-xdg
+D/home/pi/.local/share/applications
+D/usr/local/share/applications
+D/usr/share/raspi-ui-overrides/applications
+D/usr/share/applications
+D/usr/share/gdm/applications
+D/var/lib/menu-xdg/applications
+D/var/lib/menu-xdg/applications/menu-xdg
+D/etc/xdg/menus/applications-merged
+D/home/pi/.config/menus/applications-merged
+F/home/pi/.config/menus/lxde-applications.menu
+F/etc/xdg/menus/lxde-applications.menu
+F/etc/xdg/menus/debian-menu.menu
+MATE;
++Applications
+Applications
+Applications
+applications-other
+lxde-menu-applications.directory
+3
+0
++Accessories
+Accessories
+Desktop accessories
+applications-accessories
+lxde-utility.directory
+3
+0
+-xarchiver.desktop
+Archiver
+Create and access archive files
+xarchiver.png
+
+9
+Archive manager
+xarchiver
+2
+0
+xarchiver
+
+GTK;Archiving;Utility
+
+-galculator.desktop
+Calculator
+Perform simple and scientific calculations
+galculator
+
+9
+
+galculator
+2
+0
+galculator
+
+Utility
+
+-pcmanfm.desktop
+File Manager
+Browse the file system and manage the files
+system-file-manager
+
+9
+File Manager
+pcmanfm %U
+2
+0
+pcmanfm
+
+FileManager;Utility;Core;GTK
+
+-gpicview.desktop
+Image Viewer
+View your images easily
+gpicview
+
+9
+Image Viewer
+gpicview %f
+2
+0
+gpicview
+
+Graphics;Utility;Core;GTK;Viewer;RasterGraphics;2DGraphics;Photography
+
+-xpdf.desktop
+PDF Viewer
+Viewer for PDF files
+xpdf
+
+9
+PDF viewer
+xpdf
+0
+0
+xpdf
+
+Viewer;Utility
+
+-piclone.desktop
+SD Card Copier
+Make a copy of the Raspbian SD card
+media-removable
+
+10
+SD Card Copier
+piclone
+2
+-11
+
+
+Utility
+
+-lxtask.desktop
+Task Manager
+Manages running processes
+utilities-system-monitor
+
+9
+Process manager
+lxtask
+2
+0
+lxtask
+
+GTK;Utility;Monitor
+
+-lxterminal.desktop
+Terminal
+Command-line terminal
+lxterminal
+
+9
+Terminal
+lxterminal
+2
+0
+lxterminal
+
+GTK;Utility;TerminalEmulator
+
+-leafpad.desktop
+Text Editor
+Simple text editor
+accessories-text-editor
+
+9
+
+leafpad %f
+0
+0
+leafpad
+
+GTK;Utility;TextEditor
+
+-vim.desktop
+Vim
+Edit text files
+vim
+
+10
+Text Editor
+vim %F
+1
+0
+vim
+
+Utility;TextEditor
+
+
++Debian
+Debian
+
+debian-logo
+debian.directory
+3
+0
++Applications
+Applications
+
+debian-applications
+debian-applications.directory
+6
+0
++File Management
+File Management
+
+debian-applications-file-management
+debian-applications-file-management.directory
+6
+0
+-menu-xdg-X-Debian-Applications-File-Management-pcmanfm.desktop
+PCManFM
+Real Tabbed File Manager
+
+X-Debian-Applications-File-Management-pcmanfm.desktop
+13
+
+/usr/bin/pcmanfm
+0
+0
+
+
+X-Debian-Applications-File-Management
+
+-menu-xdg-X-Debian-Applications-File-Management-xarchiver.desktop
+Xarchiver
+GTK+ frontend for most used compression formats
+/usr/share/pixmaps/xarchiver.xpm
+X-Debian-Applications-File-Management-xarchiver.desktop
+13
+
+/usr/bin/xarchiver
+0
+0
+
+
+X-Debian-Applications-File-Management
+
+
++Network
+Network
+
+debian-applications-network
+debian-applications-network.directory
+6
+0
++Communication
+Communication
+
+debian-applications-network-communication
+debian-applications-network-communication.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Network-Communication-claws_mail.desktop
+Claws Mail
+
+/usr/share/pixmaps/claws-mail-32x32.xpm
+X-Debian-Applications-Network-Communication-claws_mail.desktop
+13
+
+/usr/bin/claws-mail
+0
+0
+
+
+X-Debian-Applications-Network-Communication
+
+
++Web Browsing
+Web Browsing
+
+debian-applications-network-web-browsing
+debian-applications-network-web-browsing.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Network-Web-Browsing-dillo.desktop
+Dillo
+
+/usr/share/pixmaps/dillo.xpm
+X-Debian-Applications-Network-Web-Browsing-dillo.desktop
+13
+
+/usr/bin/dillo
+0
+0
+
+
+X-Debian-Applications-Network-Web-Browsing
+
+-menu-xdg-X-Debian-Applications-Network-Web-Browsing-epiphany_web_browser.desktop
+Epiphany web browser
+Epiphany web browser
+
+X-Debian-Applications-Network-Web-Browsing-epiphany_web_browser.desktop
+13
+
+/usr/bin/epiphany-browser
+0
+0
+
+
+X-Debian-Applications-Network-Web-Browsing
+
+-menu-xdg-X-Debian-Applications-Network-Web-Browsing-netsurf_web_browser.desktop
+Netsurf Web Browser
+
+/usr/share/pixmaps/netsurf.xpm
+X-Debian-Applications-Network-Web-Browsing-netsurf_web_browser.desktop
+13
+
+/usr/bin/netsurf-gtk
+0
+0
+
+
+X-Debian-Applications-Network-Web-Browsing
+
+
+
++Programming
+Programming
+
+debian-applications-programming
+debian-applications-programming.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Programming-erlang_shell.desktop
+Erlang Shell
+Erlang shell in a terminal session
+/usr/share/pixmaps/erlang.xpm
+X-Debian-Applications-Programming-erlang_shell.desktop
+13
+
+/usr/bin/erl
+1
+0
+
+
+X-Debian-Applications-Programming
+
+-menu-xdg-X-Debian-Applications-Programming-gdb.desktop
+GDB
+
+
+X-Debian-Applications-Programming-gdb.desktop
+13
+
+/usr/bin/gdb
+1
+0
+
+
+X-Debian-Applications-Programming
+
+-menu-xdg-X-Debian-Applications-Programming-idle_(python3_ide).desktop
+IDLE (Python3 IDE)
+
+/usr/share/pixmaps/idle3.xpm
+X-Debian-Applications-Programming-idle_(python3_ide).desktop
+13
+
+/usr/bin/idle3
+0
+0
+
+
+X-Debian-Applications-Programming
+
+-menu-xdg-X-Debian-Applications-Programming-idle_(python_ide).desktop
+IDLE (Python IDE)
+
+/usr/share/pixmaps/idle.xpm
+X-Debian-Applications-Programming-idle_(python_ide).desktop
+13
+
+/usr/bin/idle
+0
+0
+
+
+X-Debian-Applications-Programming
+
+-menu-xdg-X-Debian-Applications-Programming-python_(v2.7).desktop
+Python (v2.7)
+
+/usr/share/pixmaps/python2.7.xpm
+X-Debian-Applications-Programming-python_(v2.7).desktop
+13
+
+/usr/bin/python2.7
+1
+0
+
+
+X-Debian-Applications-Programming
+
+-menu-xdg-X-Debian-Applications-Programming-python_(v3.4).desktop
+Python (v3.4)
+
+/usr/share/pixmaps/python3.4.xpm
+X-Debian-Applications-Programming-python_(v3.4).desktop
+13
+
+/usr/bin/python3.4
+1
+0
+
+
+X-Debian-Applications-Programming
+
+-menu-xdg-X-Debian-Applications-Programming-tclsh8.6.desktop
+Tclsh8.6
+
+
+X-Debian-Applications-Programming-tclsh8.6.desktop
+13
+
+/usr/bin/tclsh8.6
+1
+0
+
+
+X-Debian-Applications-Programming
+
+-menu-xdg-X-Debian-Applications-Programming-tkwish8.6.desktop
+TkWish8.6
+
+
+X-Debian-Applications-Programming-tkwish8.6.desktop
+13
+
+x-terminal-emulator -e /usr/bin/wish8.6
+0
+0
+
+
+X-Debian-Applications-Programming
+
+
++Science
+Science
+
+debian-applications-science
+debian-applications-science.directory
+6
+0
++Mathematics
+Mathematics
+
+debian-applications-science-mathematics
+debian-applications-science-mathematics.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Science-Mathematics-dc.desktop
+Dc
+
+
+X-Debian-Applications-Science-Mathematics-dc.desktop
+13
+
+/usr/bin/dc
+1
+0
+
+
+X-Debian-Applications-Science-Mathematics
+
+-menu-xdg-X-Debian-Applications-Science-Mathematics-galculator.desktop
+galculator
+
+/usr/share/pixmaps/galculator.xpm
+X-Debian-Applications-Science-Mathematics-galculator.desktop
+13
+
+/usr/bin/galculator
+0
+0
+
+
+X-Debian-Applications-Science-Mathematics
+
+-menu-xdg-X-Debian-Applications-Science-Mathematics-gnuplot.desktop
+Gnuplot
+Gnuplot - interactive plotting program
+
+X-Debian-Applications-Science-Mathematics-gnuplot.desktop
+13
+
+/usr/bin/gnuplot4-x11
+1
+0
+
+
+X-Debian-Applications-Science-Mathematics
+
+-menu-xdg-X-Debian-Applications-Science-Mathematics-octave.desktop
+Octave
+
+
+X-Debian-Applications-Science-Mathematics-octave.desktop
+13
+
+/usr/bin/octave
+1
+0
+
+
+X-Debian-Applications-Science-Mathematics
+
+
+
++Shells
+Shells
+
+debian-applications-shells
+debian-applications-shells.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Shells-bash.desktop
+Bash
+
+
+X-Debian-Applications-Shells-bash.desktop
+13
+
+/bin/bash --login
+1
+0
+
+
+X-Debian-Applications-Shells
+
+-menu-xdg-X-Debian-Applications-Shells-dash.desktop
+Dash
+
+
+X-Debian-Applications-Shells-dash.desktop
+13
+
+/bin/dash -i
+1
+0
+
+
+X-Debian-Applications-Shells
+
+-menu-xdg-X-Debian-Applications-Shells-sh.desktop
+Sh
+
+
+X-Debian-Applications-Shells-sh.desktop
+13
+
+/bin/sh --login
+1
+0
+
+
+X-Debian-Applications-Shells
+
+
++Sound
+Sound
+
+debian-applications-sound
+debian-applications-sound.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Sound-jack_control.desktop
+JACK Control
+
+/usr/share/pixmaps/qjackctl.xpm
+X-Debian-Applications-Sound-jack_control.desktop
+13
+
+/usr/bin/qjackctl
+0
+0
+
+
+X-Debian-Applications-Sound
+
+-menu-xdg-X-Debian-Applications-Sound-pimixer.desktop
+PiMixer
+
+/usr/share/pixmaps/pimixer.xpm
+X-Debian-Applications-Sound-pimixer.desktop
+13
+
+/usr/bin/pimixer
+0
+0
+
+
+X-Debian-Applications-Sound
+
+
++System
+System
+
+debian-applications-system
+debian-applications-system.directory
+6
+0
++Administration
+Administration
+
+debian-applications-system-administration
+debian-applications-system-administration.directory
+6
+0
+-menu-xdg-X-Debian-Applications-System-Administration-debian_task_selector.desktop
+Debian Task selector
+
+
+X-Debian-Applications-System-Administration-debian_task_selector.desktop
+13
+
+su-to-root -c tasksel
+1
+0
+
+
+X-Debian-Applications-System-Administration
+
+-menu-xdg-X-Debian-Applications-System-Administration-editres.desktop
+Editres
+Editres: resource editor for X Toolkit applications
+
+X-Debian-Applications-System-Administration-editres.desktop
+13
+
+editres
+0
+0
+
+
+X-Debian-Applications-System-Administration
+
+-menu-xdg-X-Debian-Applications-System-Administration-gnome_partition_editor.desktop
+GNOME partition editor
+
+/usr/share/pixmaps/gparted.xpm
+X-Debian-Applications-System-Administration-gnome_partition_editor.desktop
+13
+
+su-to-root -X -c /usr/sbin/gparted
+0
+0
+
+
+X-Debian-Applications-System-Administration
+
+-menu-xdg-X-Debian-Applications-System-Administration-xfontsel.desktop
+Xfontsel
+Xfontsel: font viewer/selector for X
+
+X-Debian-Applications-System-Administration-xfontsel.desktop
+13
+
+xfontsel
+0
+0
+
+
+X-Debian-Applications-System-Administration
+
+-menu-xdg-X-Debian-Applications-System-Administration-xkill.desktop
+Xkill
+Xkill: tool to kill X clients by clicking on their windows
+
+X-Debian-Applications-System-Administration-xkill.desktop
+13
+
+xkill
+0
+0
+
+
+X-Debian-Applications-System-Administration
+
+-menu-xdg-X-Debian-Applications-System-Administration-xrefresh.desktop
+Xrefresh
+Xrefresh: redraw X screen
+
+X-Debian-Applications-System-Administration-xrefresh.desktop
+13
+
+xrefresh
+0
+0
+
+
+X-Debian-Applications-System-Administration
+
+
++Hardware
+Hardware
+
+debian-applications-system-hardware
+debian-applications-system-hardware.directory
+6
+0
+-menu-xdg-X-Debian-Applications-System-Hardware-xvidtune.desktop
+Xvidtune
+Xvidtune: tool for customizing X server modelines
+
+X-Debian-Applications-System-Hardware-xvidtune.desktop
+13
+
+xvidtune
+0
+0
+
+
+X-Debian-Applications-System-Hardware
+
+
++Monitoring
+Monitoring
+
+debian-applications-system-monitoring
+debian-applications-system-monitoring.directory
+6
+0
+-menu-xdg-X-Debian-Applications-System-Monitoring-pstree.desktop
+Pstree
+
+/usr/share/pixmaps/pstree16.xpm
+X-Debian-Applications-System-Monitoring-pstree.desktop
+13
+
+/usr/bin/pstree.x11
+1
+0
+
+
+X-Debian-Applications-System-Monitoring
+
+-menu-xdg-X-Debian-Applications-System-Monitoring-top.desktop
+Top
+
+
+X-Debian-Applications-System-Monitoring-top.desktop
+13
+
+/usr/bin/top
+1
+0
+
+
+X-Debian-Applications-System-Monitoring
+
+-menu-xdg-X-Debian-Applications-System-Monitoring-xev.desktop
+Xev
+Xev: display X events
+
+X-Debian-Applications-System-Monitoring-xev.desktop
+13
+
+x-terminal-emulator -e xev
+0
+0
+
+
+X-Debian-Applications-System-Monitoring
+
+
++Package Management
+Package Management
+
+debian-applications-system-package-management
+debian-applications-system-package-management.directory
+6
+0
+-menu-xdg-X-Debian-Applications-System-Package-Management-aptitude_package_manager_(text).desktop
+Aptitude Package Manager (text)
+
+
+X-Debian-Applications-System-Package-Management-aptitude_package_manager_(text).desktop
+13
+
+/usr/bin/aptitude-curses
+1
+0
+
+
+X-Debian-Applications-System-Package-Management
+
+
+
++Terminal Emulators
+Terminal Emulators
+
+debian-applications-terminal-emulators
+debian-applications-terminal-emulators.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Terminal-Emulators-x-terminal_as_root_(gksu).desktop
+X-Terminal as root (GKsu)
+Runs an X terminal application. Uses GKsu to ask the password.
+/usr/share/pixmaps/gksu-debian.xpm
+X-Debian-Applications-Terminal-Emulators-x-terminal_as_root_(gksu).desktop
+13
+
+/usr/bin/gksu -u root /usr/bin/x-terminal-emulator
+0
+0
+
+
+X-Debian-Applications-Terminal-Emulators
+
+
++Text
+Text
+
+debian-applications-text
+debian-applications-text.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Text-fortune.desktop
+Fortune
+
+
+X-Debian-Applications-Text-fortune.desktop
+13
+
+sh -c 'while /usr/games/fortune | col -x | xmessage -center -buttons OK:1,Another:0 -default OK -file - ; do :; done'
+0
+0
+
+
+X-Debian-Applications-Text
+
+
++Viewers
+Viewers
+
+debian-applications-viewers
+debian-applications-viewers.directory
+6
+0
+-menu-xdg-X-Debian-Applications-Viewers-xpdf.desktop
+Xpdf
+Xpdf: Portable Document Format (PDF) file viewer for X
+/usr/share/pixmaps/xpdf.xpm
+X-Debian-Applications-Viewers-xpdf.desktop
+13
+
+/usr/bin/xpdf
+0
+0
+
+
+X-Debian-Applications-Viewers
+
+
+
++Games
+Games
+
+debian-games
+debian-games.directory
+6
+0
+-menu-xdg-X-Debian-Games-minecraft_pi.desktop
+Minecraft Pi
+Fun with blocks
+/usr/share/pixmaps/minecraft-pi.png
+X-Debian-Games-minecraft_pi.desktop
+13
+
+/usr/bin/minecraft-pi
+0
+0
+
+
+X-Debian-Games
+
+
++Help
+Help
+
+debian-help
+debian-help.directory
+6
+0
+-menu-xdg-X-Debian-Help-info.desktop
+Info
+GNU Info browser
+
+X-Debian-Help-info.desktop
+13
+
+info
+1
+0
+
+
+X-Debian-Help
+
+
+
++Education
+Education
+
+applications-science
+lxde-education.directory
+3
+0
+-www.octave.org-octave.desktop
+GNU Octave
+Scientific Computing using GNU Octave
+/usr/share/octave/3.8.2/imagelib/octave-logo.svg
+
+10
+
+/usr/bin/octave
+1
+0
+/usr/bin/octave
+
+Education;Science;Math
+
+
++Games
+Games
+Games and amusements
+applications-games
+lxde-game.directory
+3
+0
+-dosbox.desktop
+DOSBox Emulator
+Run old DOS applications
+dosbox
+
+10
+
+dosbox
+0
+0
+
+
+Game;Emulator
+DOS Emulator
+-minecraft-pi.desktop
+Minecraft Pi
+Fun with Blocks
+/usr/share/pixmaps/minecraft-pi.png
+
+9
+
+minecraft-pi
+2
+0
+minecraft-pi
+
+Application;Game
+
+-python-games.desktop
+Python Games
+Examples of games written in Python
+/usr/share/pixmaps/python.xpm
+
+9
+
+sh -c $HOME/python_games/launcher.sh
+2
+0
+/home/pi/python_games/launcher.sh
+
+Application;Game
+
+
++Graphics
+Graphics
+Graphics applications
+applications-graphics
+lxde-graphics.directory
+3
+0
+-R.desktop
+R
+R software environment for statistical computing and graphics
+rlogo_icon
+
+10
+
+R
+1
+0
+
+
+Graphics;Science;Math
+
+
++Internet
+Internet
+Programs for Internet access such as web and email
+applications-internet
+lxde-network.directory
+3
+0
+-chromium-browser.desktop
+Chromium Web Browser
+Access the Internet
+chromium-browser
+
+10
+Web Browser
+chromium-browser %U
+2
+0
+
+
+Network;WebBrowser
+
+-claws-mail.desktop
+Claws Mail
+Lightweight and Fast GTK+ based Mail Client
+claws-mail
+
+10
+E-mail client
+claws-mail %u
+2
+0
+
+
+Network;Email
+lightweight,fast,gui,extensible,plugin,pop,pop3,imap,imap4,nntp,news
+-pistore.desktop
+Pi Store
+Download software for your Raspberry Pi
+/usr/share/indiecity/pistore/clienticon.xpm
+
+9
+
+pistore-desktop
+2
+0
+pistore-desktop
+
+Application;Network
+
+-raspi_resources.desktop
+Raspberry Pi Resources
+
+rpi
+
+9
+
+x-www-browser http://www.raspberrypi.org/resources/
+2
+0
+/usr/bin/x-www-browser
+
+Application;Network
+
+-magpi.desktop
+The MagPi
+Link to downloads of The MagPi magazine
+magpi
+
+9
+
+x-www-browser http://www.raspberrypi.org/magpi
+0
+0
+/usr/bin/x-www-browser
+
+Network
+
+-realvnc-vncviewer.desktop
+VNC Viewer
+Connect to computers running VNC Server
+/usr/share/icons/hicolor/48x48/apps/vncviewer48x48.png
+
+10
+VNC Viewer
+vncviewer %f
+0
+0
+
+
+Application;Network;RemoteAccess
+
+-wicd.desktop
+Wicd Network Manager
+Start the Wicd client without system tray icon
+wicd-gtk
+
+10
+Network Manager
+wicd-gtk --no-tray
+0
+0
+
+
+Application;Network
+
+
++Office
+Office
+Office Applications
+applications-office
+lxde-office.directory
+3
+0
+-libreoffice-draw.desktop
+LibreOffice Draw
+Create and edit drawings, flow charts, and logos by using Draw.
+libreoffice-draw
+
+9
+Drawing Program
+libreoffice --draw %U
+2
+0
+libreoffice
+
+Office;FlowChart;2DGraphics;VectorGraphics
+Vector,Schema,Diagram,Layout,OpenDocument Graphics,Microsoft Publisher,Corel Draw,cdr,odg,svg
+-libreoffice-math.desktop
+LibreOffice Math
+Create and edit scientific formulas and equations by using Math.
+libreoffice-math
+
+9
+Formula Editor
+libreoffice --math %U
+2
+0
+libreoffice
+
+Office;Spreadsheet;Science;Math
+Equation,OpenDocument Formula,Formula,odf,MathML
+
++Other
+Other
+Applications that did not fit in other categories
+applications-other
+lxde-other.directory
+3
+0
+-debian-reference-common.desktop
+Debian Reference
+Debian Reference Guide
+debian-reference.png
+
+9
+
+debian-reference
+0
+0
+debian-reference
+
+Help
+
+-help.desktop
+Raspberry Pi Help
+Link to help pages
+rpi
+
+9
+
+x-www-browser http://www.raspberrypi.org/help
+0
+0
+/usr/bin/x-www-browser
+
+Help
+
+
++Development
+Programming
+Tools for software development
+applications-development
+lxde-development.directory
+3
+0
+-bluej.desktop
+BlueJ Java IDE
+A simple powerful Java IDE
+bluej
+
+9
+
+bluej
+0
+0
+bluej
+
+Application;Development
+
+-geany.desktop
+Geany
+A fast and lightweight IDE using GTK2
+geany
+
+9
+Integrated Development Environment
+geany %F
+2
+0
+geany
+
+GTK;Development;IDE
+
+-greenfoot.desktop
+Greenfoot Java IDE
+A simple Java IDE and animation framework
+greenfoot
+
+9
+
+greenfoot
+0
+0
+greenfoot
+
+Application;Development
+
+-wolfram-mathematica.desktop
+Mathematica
+Technical Computing System
+wolfram-mathematica
+
+9
+
+mathematica %F
+2
+0
+mathematica
+
+Application;Development
+
+-Node-RED.desktop
+Node-RED
+Flow based application composer for the Internet of Things
+/usr/share/icons/gnome/scalable/apps/node-red-icon.svg
+
+10
+
+node-red-start
+1
+0
+
+
+Development
+
+-idle.desktop
+Python 2 (IDLE)
+Integrated development environment for Python 2
+/usr/share/pixmaps/idle.xpm
+
+9
+
+/usr/bin/idle
+2
+0
+/usr/bin/idle
+
+Application;Development
+
+-idle3.desktop
+Python 3 (IDLE)
+Integrated development environment for Python 3
+/usr/share/pixmaps/idle3.xpm
+
+9
+
+/usr/bin/idle3
+2
+0
+/usr/bin/idle3
+
+Application;Development
+
+-scratch.desktop
+Scratch
+Programming system and content development tool
+scratch
+
+9
+
+scratch
+0
+0
+scratch
+
+Application;Development
+
+-sense_emu_gui.desktop
+Sense HAT Emulator
+GUI for controlling the emulated Sense HAT
+sense_emu_gui
+
+10
+
+sense_emu_gui
+2
+0
+
+
+Development
+
+-wolfram-language.desktop
+Wolfram
+Technical Programming Environment
+wolfram-language
+
+9
+
+wolfram
+3
+0
+wolfram
+
+Application;Development
+
+
++System
+System Tools
+System configuration and monitoring
+applications-system
+lxde-system-tools.directory
+3
+0
+-guake.desktop
+Guake Terminal
+Use the command line in a Quake-like terminal
+guake
+
+10
+
+guake
+2
+0
+guake
+
+GNOME;GTK;System;Utility;TerminalEmulator
+
+
+-
++DesktopSettings
+Preferences
+Personal preferences
+preferences-desktop
+lxde-settings.directory
+3
+0
+-pi-packages.desktop
+Add / Remove Software
+Add or remove software installed on the system
+system-software-install
+
+10
+
+pi-packages
+2
+-5
+
+
+GNOME;GTK;System;Settings;PackageManager
+Updates,Upgrade,Sources,Repositories,Preferences,Install,Store
+-pipanel.desktop
+Appearance Settings
+Configure the appearance of the desktop and windows
+preferences-desktop-theme
+
+10
+Appearance Settings
+pipanel
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-pimixer.desktop
+Audio Device Settings
+Settings for internal and external audio devices
+multimedia-volume-control
+
+10
+
+pimixer
+2
+0
+
+
+Settings
+
+-gparted.desktop
+GParted
+Create, reorganize, and delete partitions
+gparted
+
+10
+Partition Editor
+gparted-pkexec
+2
+0
+
+
+GNOME;System;Filesystem;Settings
+
+-guake-prefs.desktop
+Guake Preferences
+Configure your Guake sessions
+guake-prefs
+
+10
+
+guake-prefs
+2
+0
+guake-prefs
+
+GTK;GNOME;Settings;X-GNOME-PersonalSettings
+
+-lxinput.desktop
+Keyboard and Mouse
+Configure keyboard, mouse, and other input devices
+input-keyboard
+
+10
+
+lxinput
+2
+-47
+
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+
+-alacarte.desktop
+Main Menu Editor
+Add or remove applications from the main menu
+alacarte
+
+10
+
+alacarte
+2
+-5
+
+
+GNOME;Settings;DesktopSettings
+
+-rc_gui.desktop
+Raspberry Pi Configuration
+Configure Raspberry Pi system
+rpi
+
+10
+Raspberry Pi Configuration
+rc_gui
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+
+

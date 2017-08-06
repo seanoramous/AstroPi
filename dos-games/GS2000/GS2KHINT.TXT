@@ -1,0 +1,423 @@
+          GUNSHIP 2000 HINTS ON PLAY FOR VERSION 469.07
+
+CONTENTS
+~~~~~~~~
+    Flight:                            page 1
+    Tactics:                           page 2
+    Scoring:                           page 8
+
+
+FLIGHT
+~~~~~~
+    Control:
+    --------
+       Although it is best to start out in "easy" flight mode,
+    you should try to progress to "realistic" flight as soon as
+    is possible. Realistic flight gives a much more precise
+    control of the helicopter. You should strive to control your
+    altitude with just the cyclic (joystick) control, and stay
+    away from using the collective for in-flight altitude
+    adjustments.
+       Try to use the dual joystick, joystick/keyboard or
+    joystick/rudder pedals control options. These options enable
+    you to control the tail rotor. This additional control
+    greatly enhances flight control. It is much easier to use the
+    tail rotor to make quick turns than the cyclic. Hard cyclic
+    turns can result in an altitude loss; a problematic situation
+    when near the ground.
+
+    Altitude:
+    ---------
+       Try to avoid overflying mountains (except near your base)
+    unless you wish to get a high view of the countryside. The
+    altitude gain is just not worth the exposure. Stay low, but
+    not too low as the discovery of the enemy at extremely low
+    altitudes gives you little time to react to incoming threats.
+    It real combat, helicopter pilots seldom fly below 100 feet.
+    If you are searching for the enemy, an altitude of about 225
+    feet is probably about right. If you know where the target or
+    objective is located, go in low and hot to avoid as many of
+    the enemy defensive units as is possible.
+
+    Gauges/Indicators:
+    ------------------
+       Keep your eye glued to the radar altimeter (the one
+    located in the HUD - the altitude gauge in the console is
+    the barometric or pressure altimeter). This indicator shows
+    your true height to the ground immediately below the
+    helicopter. As the ground rises up to meet you, this
+    indicator shows the loss in altitude. The low altitude
+    warning also sounds when your altitude enters the red zone
+    (this zone is player adjustable by the "c" or "v" keys).
+       These subtle altitude changes can mean the difference
+    between life or that fatal crash. One particular area to
+    watch is the coast in the Persian Gulf. As you near the
+    shore, flying from inland, the terrain rises slightly - pay
+    attention to the altitude change.
+       It may seem obvious, but pay close attention to the threat
+    display - give it a glance every so often. Threats can pop up
+    on the periphery or to the rear that your CP/G can not see to
+    call out. In those situations, maneuver towards or away from
+    the potential threat. Keep in mind that as you move towards a
+    target, the dead (or safety) zone is reduced - this is a
+    combination of range and altitude.
+       In general, fly "out of the cockpit" only taking periodic
+    glances at the console. The HUD provides the key flight data,
+    and the console should be used only as a backup.
+
+    Friendlies:
+    -----------
+       Upon reaching the rank of 2nd Lieutenant, you are given
+    the responsibility of multi-helicopter command. These guys
+    can accomplish a great deal if you utilize them with care.
+       With fresh-faced rookies, do not expect them to take on
+    the enemy single handedly - they just do not have the skills.
+    Just as you had to learn the ropes, these guys also improve
+    with time. Rank and decorations are the best measure of their
+    competence.
+       Their degree of competence is applicable to three
+    different areas: offense, defense and flight skill. The best
+    pilots hit the targets with the fewest shots and at the
+    greatest range; avoid taking damage; and hit their waypoints
+    right on the mark. Those new guys and less experienced pilots
+    fall somewhere short of this optimum.
+       With these limitations in mind, give them something
+    attainable. Pick-ups, cargo missions, small target groups or
+    moving targets are a good place to start. They are skilled
+    enough to always fly to a drop-off or pick-up point if their
+    last waypoint is somewhere near the location. They even let
+    you know if they spot a pick-up by communicating "Objective
+    Sighted!". Position their final waypoint or assign a new
+    flight path on the location, and they will fly directly to
+    the point. Of course, they always fly directly to the base or
+    FARP (accessed by a second press of the "to base" key).
+       Once they have developed a certain degree of experience,
+    there is not a single mission they can not handle. Take care
+    of them, and they will take care of you.
+
+TACTICS
+~~~~~~~
+    S-2 Report:
+    -----------
+       Pay attention to the unit sightings information in the
+    report. The order of the four units listed indicates the
+    frequency of the number you could expect to meet in this
+    mission. The unit listed first has the greatest frequency,
+    the second a lesser frequency, and so on.
+
+    Toughest Primary/Secondary Targets:
+    -----------------------------------
+       Headquarters, Depots, Fixed Emplacements, Infantry Groups,
+    and moving helicopter formations provide the greatest
+    challenge.  They all have a large and diverse mix of
+    potentially dangerous units. They also require a high degree
+    of destruction to achieve the mission. This combined with the
+    deployed enemy defenders, makes for a tough assignment. 
+
+    Easiest Primary/Secondary Targets:
+    ----------------------------------
+       Moving vehicle platoons, and to a lesser extent moving
+    mech groups, are the easiest targets. This assumes that you
+    have found the target. Only a few of the units in the platoon
+    or mech group stop to engage you - the others try to escape
+    and continue on to their objective. This makes for a limited
+    number of enemy shots. As an added benefit, the enemy
+    defenders must spread out along the path of movement,
+    thereby, limiting their concentration.
+
+    Toughest Single Targets:
+    ------------------------
+       This is probably all infantry targets (SAM Teams are
+    easier to eliminate, but usually are equipped with superior
+    SAMs), the 2S6 (found only in Central Europe), and the Rapier
+    (found only in Antarctica). The infantry are tough to destroy
+    and they have a number of weapons to throw back at you. M261
+    and M255 rockets can make short work of the infantry. 
+    Hellfires can also be effective, but it may take more than
+    one to do the job. When in close, blast them with your
+    cannon. The Rapier's laser missiles, and the 2S6's laser
+    guided missiles and accurate cannon make them extremely tough
+    adversaries.
+         Radar guided missiles also pose a unique threat in their
+    ability to damage multiple systems on your helicopters with a
+    single hit. Theses units should be eliminated with all
+    expediency. Like laser missiles, once the firing unit is
+    eliminated, the missile no longer tracks (don't forget to
+    move out of the way). The SA-11 (found only in Central
+    Europe) and the Roland and Crotale (found only in Antarctica)
+    are the toughest weapon system in this category.
+         Fire-and-forget weapons are the best choice as you can
+    not "spoof" its laser guided missiles. Guiding a TOW-2 or
+    Hellfire-A into the target can be a dangerous prospect. The
+    preferred tactic is to fire a Sidearm, Hellfire-B or M247
+    rockets and immediately fly away from the target. Even if a
+    laser missile is in flight, when the Rapier or 2S6 is
+    destroyed, the missile automatically drops its lock (this is
+    also true of radar guided missiles - eliminate the source and
+    the missile no longer tracks). This tactic should also keep
+    you out of its cannon range. The Fixed Guns, the ZSU-23(4)
+    and towed guns can also be a tough nut if you come upon them
+    within their cannon range. Their high rate-of-fire
+    (especially at the higher enemy quality levels) enable them
+    to throw out a large number of shots in a short period of
+    time. 
+
+    Easiest Single Targets:
+    -----------------------
+       Aside from the various structures, buildings and trucks,
+    these would be all tanks and machine-gun armed recon units,
+    such as the BRDM-2 and EE-9. These units are pretty much
+    sitting ducks and can be destroyed with impunity. Even if you
+    fall within range of their machine-guns, it is rare that you
+    take a hit. These are all good candidates for cannon fire; do
+    not waste limited ordnance on these targets. 
+
+    On-line Data Base:
+    ------------------
+       Until familiar with the various enemy targets and units,
+    you are encouraged to use the on-line data base (alt-p keys
+    with a target lock) to secure important information.
+
+    Weapons:
+    --------
+       You really need to tailor your choice of weapons to the
+    nature of the targets. This knowledge comes from experience,
+    the manual and the on-line data base. Try different
+    combinations on different target types - best done while in
+    the training mode. Keep in mind that the damage inflicted can
+    vary; it is not a fixed amount. A target could be destroyed
+    with one hit on one occasion, but may require two hits on a
+    second occasion.
+       Before you reach the level of command access to a Longbow
+    Apache, rockets can substitute as a poor man's fire-and-
+    forget weapon. While they take a certain degree of finesse to
+    utilize, they do have the advantage of flying directly to the
+    target if launched in constraints. As an added bonus, you can
+    usually carry a whole passel of them, and set the number to
+    fire in a salvo. With three different types, choose carefully
+    and pay attention to the S-2 report.
+       Sidearm is also a good weapon to consider, as it is a true
+    fire-and-forget weapon system. While the number that can be
+    carried is limited, it is a good choice for the wing tips on
+    Apaches when light air activity is expected. It is more than
+    capable of silencing most radar sources with the exception of
+    ships.
+       Mavericks or Penguins are a must when dealing with ships.  
+    They have the capacity to destroy a ship with a single hit;
+    not guaranteed with Hellfires or TOWs. Maverick, if
+    available, is the preferred choice over Penguin since it has
+    a dual role against ground targets.
+       A mistake some players make is changing the weapon type
+    while a guided missile is still in flight to a target. For
+    example, if you have a Hellfire-A in bound to a target, do
+    not change the weapon selector to another weapon type. The on
+    board computer becomes confused, and the Hellfire no longer
+    tracks the target.
+       The effectiveness of ripple fire can not be emphasized
+    more, when engaging closely grouped targets with guided
+    weapons. Launch one missile, wait a few moments, launch a
+    second, wait a few moments more, and then launch a third, and
+    so on. This tactic greatly reduces the total engagement time
+    over the target, and therefore your total exposure time. It
+    has the added benefit of eliminating the threats in short
+    order. Technically, all of the missiles are targeted on the
+    first target. But after the first target is destroyed, the
+    targeting system automatically shifts to the next target -
+    locking the next missile on to that target. This process
+    continues until all of the targets are destroyed or the
+    missiles have all hit their targets. If the target was not
+    destroyed by the first hit, you have another missile
+    following closely in its wake to finish the job.
+
+    Mast Mounted Sight
+    ------------------
+       The AH-64C Longbow Apache, OH-58D Kiowa Warrior and the
+    AH-6G Defender are each equipped with a mast mounted sight
+    that enables these three helicopter types to peer over
+    intervening terrain. The "F2" key is pressed to access the
+    mast view. The controller is then used to move the mast view.
+    Targets can be observed at a longer range than normal
+    sighting. The mast sight is most effective when employed from
+    behind terrain. While it can be utilized in normal flight, it
+    is less effective.
+       The best tactic is to stop behind a mountain and assume
+    hover mode (auto-hover is very handy in this case) and slowly
+    gain altitude until the mast sight just clears the top of the
+    mountain. At that point stop the ascent and scan from side to
+    side for enemy units. If enemy units are spotted, assuming
+    you are not too high, you will see them, but they can not see
+    you. The only thing you have exposed is the mast sight - not
+    a very large target at any range. At this point you may
+    engage the target(s) or by pressing button 2, designate the
+    target to any accompanying helicopters. Assuming they have
+    the appropriate weapons they will engage the target. They are
+    also masked from view since they are utilizing your
+    designation. Keep one thing in mind, your helicopter and your
+    wingmen's helicopters must be facing the enemy units to bring
+    the weapons into constraints.
+       As you gain altitude, do not forget that enemy units could
+    be behind you or to the sides, so scan in those directions.  
+    Also periodically check the threat display for any other
+    sightings. If an enemy unit sights you, the best bet is to
+    quickly drop altitude and relocate to a new position.
+
+    Moving Targets:
+    ---------------
+       Moving targets are not all that difficult to find, if you
+    keep a few key points in mind. They move at a speed of about
+    25 knots - so less than 1/4 of your average speed. This gives
+    you an idea as to where they may be along their path. They
+    always move in the indicated direction, but modify their path
+    based upon intervening terrain (they avoid mountains, valleys
+    and rivers). You may discover them off of the path due to
+    these terrain types. However, they generally move in the
+    direction indicated.
+       Moving units that appear to start on a road will more than
+    likely follow the path of that road, including movement
+    through road canyons.
+
+    Search & Destroy (or Rescue):
+    --------------------------
+       These can be one of the most frustrating mission types.  
+    Just keep in mind that the target is out there, and your
+    intelligence data relating to the suspected location is
+    fairly accurate. The target should be no more the a few map
+    units from the indicated location (the mission map is divided
+    into a 16 by 16 grid - therefore it is divided into 16 x 16
+    map units). The challenging part is that the target could be
+    in any direction from the indicated location.
+       A good clue to the location can be the discovery of enemy
+    defenders. If you start to encounter these defenders, the
+    target can not be far away. After all, the defenders are
+    there for a purpose.
+
+    Sea Targets:
+    ------------
+       Enemy ships can be a bit of a challenge, especially if you
+    come across them at short range. Freighters can be especially
+    tough to eliminate; you may need a Penguin or Maverick to
+    assure a one-shot kill. The Reshev Patrol Boats (found only
+    in Antarctica) are also larger than the run-of-the-mill tub
+    found in most area; care should be taken against these units.
+         If you are to engage known ship targets, approach them
+    from the seaward side and pick up altitude to about 300 or so
+    feet. This should give you enough range to deal with anything
+    they may throw at you. 
+
+    Air Targets:
+    ------------
+       Now these guys can give you some real trouble. Pay very
+    close attention to the S-2 report's section on enemy
+    aircraft. If it states "extremely heavy", you best be
+    prepared for some heavy action. Stingers and Sidewinders are
+    the weapons of choice in this case. Stingers are more than
+    capable of dealing with most of the enemy helicopter threats
+    with a single shot. There is no doubt when firing a
+    Sidewinder. Your cannon is also more than capable of taking
+    out an enemy helicopter. It this case, you will have to get
+    in close.
+       Enemy high-performance aircraft definitely require
+    Sidewinders; in most cases, Stingers just do not have the
+    punch to take one out with a single hit. It is a truly lucky
+    shot if you are able to get a hit with your cannon. Keep in
+    mind, that these guys must be dealt with, since they keep
+    coming back until they are damaged or destroyed. The good
+    thing is that you do not see them all that often - after all,
+    helicopters just do not tangle with fast movers all that
+    often.
+
+    Jammers, Chaff & Flares:
+    ------------------------
+       Jammers should be activated at the first notice of an
+    enemy inbound threat. The jammer either "spoofs" the enemy
+    missile or it does not - there is no grey area in this
+    regard. If you do jam the missile make sure to move out of
+    its flight path. Jammed missiles do not disappear, they just
+    continue on a straight flight path. That is why it is a good
+    tactic to keep targets on the periphery rather than flying
+    directly towards the target. With this approach, the jammed
+    missiles miss to the left or right. The IR jammer has an
+    equal chance of jamming a missile each time it is attempted.  
+    The radar jammer is a different story. The enemy unit's
+    frequency hops until it is able to defeat, or "burn through"
+    your jamming signal. That is why initial missiles are jammed
+    and later missiles can not be jammed. Turn off the radar
+    jammer after use; remaining active reduces its effectiveness.
+       Chaff and flares are close-in defenses. Launching chaff or
+    flares when the missile is still 2 km away is very
+    ineffective. It is purely a matter of timing. Allow the
+    missile to approach and then launch the decoy. If you launch
+    too soon the chaff cloud will have dissipated or drifted off
+    or the flares will have hit the ground or burned out. If you
+    launch too late, the missile will not be fooled, and will
+    still track your helicopter. If possible, break left or right
+    after you launch the decoy; this enhances the effectiveness
+    of the decoy. You can lose constraints or even drop the lock
+    while targeting for guided weapons (Hellfire-A and TOW-2).
+    The missile continues to fly in a straight line. If you
+    re-acquire the lock before the missile flies by the target or
+    it is able to turn quickly enough to maneuver to the target,
+    it will still impact.
+       Another effective tactic to avoid enemy missiles, is to
+    drop down or fly behind hills. If you can mask your signature
+    to the missile, it loses its track. That is why it is
+    advisable, when possible, to approach targets from terrain
+    rather than over flat ground.
+       As a last ditch choice, it is also possible to "dodge"
+    missiles by making quick last minute breaks to the left or
+    right. You do not have the quickness and sharp
+    maneuverability of a fighter aircraft. As a result, this
+    maneuver is a real challenge as it requires precise timing,
+    but at times may be your only hope of escape. The maneuver is
+    much more effective against radar guided missiles than IR
+    guided missiles. Radar guided missiles have a much larger
+    turning radius then IR missiles, and are less able to respond
+    to quick breaking turns. IR missiles are designed to engage
+    fast breaking targets.
+       Training is a good place to test these tactics and
+    maneuvers. You can get your timing down and locked without
+    any damage to get in the way of your tests.
+
+
+SCORING
+~~~~~~~
+       Your main purpose in life is to destroy the primary and
+    secondary targets. You are not rewarded for missing those
+    objects, even if you manage to destroy everything else out
+    there. The really successful pilots are rewarded for hitting
+    the targets and getting back in less than thirty minutes.  
+    This may mean that you may have to set your sights to just
+    the primary or the secondary on certain missions. Make sure
+    that you get at least one of them, preferably the primary,
+    and get that helicopter back to base. They are too expensive
+    to leave littered about the battlefield.
+       To maximize your score, and consequently your success and
+    rewards, destroy all of the targets in the primary and
+    secondary. Even though you can achieve the mission by
+    destroying less than the total number of targets - get all of
+    them while you are there. If possible, eliminate all air
+    targets encountered. If you have to make a choice, skip the
+    buildings, recon units and tanks, and concentrate on the
+    missile armed units and anti-aircraft guns. After all, how
+    many points do you expect to score for torching houses,
+    churches and mosques.
+       You are definitely recognized for eliminating the bad guys
+    while flying smaller and less well armed helicopters. It is
+    especially apparent if you fly one of those helicopters
+    yourself. You have probably noticed that the Longbow Apache
+    is an extremely powerful helicopter. Well, the Task Force
+    Commander has also noticed this fact. He is impressed with
+    the guys that fly Defenders and Comanche Scouts.
+       If you started with a pilot that has suffered a number of
+    setbacks, i.e. did not get either the primary or secondary on
+    a series of missions or consistently has walked back to base,
+    you may be further ahead to start over with a new pilot. That
+    guy probably has too many reprimands in his file to achieve a
+    high rank before forced retirement gets him first.
+       If you can avoid it, never decline missions or abort a
+    campaign. These are big black marks on your record. And by
+    all means, try not to lose any pilots. It is your
+    responsibility to take care of them. If you lose too many,
+    you may find yourself in civilian clothes flying a traffic
+    helicopter.
+

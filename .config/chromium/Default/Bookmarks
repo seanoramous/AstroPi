@@ -1,0 +1,57 @@
+{
+   "checksum": "53c5d1c2d8b13df79567fb129a73fd57",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13137954345190123",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13137954345197900"
+            },
+            "name": "Raspberry Pi web server - Using MySQL on a Raspberry Pi",
+            "type": "url",
+            "url": "http://raspberrywebserver.com/sql-databases/using-mysql-on-a-raspberry-pi.html"
+         }, {
+            "date_added": "13137954360967941",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13137954360978272"
+            },
+            "name": "MySQL :: MySQL 5.7 Reference Manual :: 7.3.2 Adding User Accounts",
+            "type": "url",
+            "url": "https://dev.mysql.com/doc/refman/5.7/en/adding-users.html"
+         }, {
+            "date_added": "13139247316123065",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13139247316123594"
+            },
+            "name": "Board | Abandonia",
+            "type": "url",
+            "url": "http://www.abandonia.com/en/game/Board?page=2"
+         } ],
+         "date_added": "13137951276302147",
+         "date_modified": "13139247316123065",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13137951276302167",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13137951276302171",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

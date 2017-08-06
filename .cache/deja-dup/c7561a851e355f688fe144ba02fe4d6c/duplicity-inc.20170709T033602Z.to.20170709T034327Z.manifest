@@ -1,0 +1,18 @@
+Hostname AstroPi3
+Localdir /
+Volume 1:
+    StartingPath   home/pi/.bash_history  
+    EndingPath     home/pi/.local/share/recently-used.xbel  
+    Hash SHA1 ae8730e711678f78d6ebc696b760f3324254812f
+Filelist 11
+    changed  home/pi/.bash_history
+    changed  home/pi/.cache/deja-dup/metadata/README
+    changed  home/pi/.config/dconf/user
+    changed  home/pi/.config/libfm/libfm.conf
+    changed  home/pi/.config/pcmanfm/LXDE-pi/pcmanfm.conf
+    new      home/pi/.gnupg/random_seed
+    new      home/pi/.gnupg/secring.gpg
+    changed  home/pi/.local/share/gvfs-metadata/home
+    deleted  home/pi/.local/share/gvfs-metadata/home-751a04f4.log
+    new      home/pi/.local/share/gvfs-metadata/home-e8a317dd.log
+    changed  home/pi/.local/share/recently-used.xbel
